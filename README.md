@@ -1,4 +1,4 @@
-# pdfmake-fluent-interface [![GitHub][github_img]][github_url]
+# pdfmake-fluent-interface
 Fluent Interface for PDFMake
 
 This JavaScript class is a Fluent Interface content generator for PDFMake.
@@ -27,6 +27,13 @@ for (...)
     .addCol(firstNameVar)
     .addCol(scoreVar, { color : scoreVar < 7 : 'red' : 'green' });
 ```
+
+=====================================================================================
+
+### Supported Features
+* Paragraphs
+* Texts
+* Tables, with Header Rows, ColSpanning and RowSpanning
 
 =====================================================================================
 
