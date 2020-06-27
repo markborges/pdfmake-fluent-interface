@@ -1,4 +1,4 @@
-class PdfMakeNatural {
+class PdfMakeFluentInterface {
     context = 'none';
     contextObj = null;
     
