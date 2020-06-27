@@ -1,4 +1,4 @@
-# pdfmake-fluent-interface
+# pdfmake-fluent-interface [![GitHub][github_img]][github_url]
 Fluent Interface for PDFMake
 
 This JavaScript class is a Fluent Interface content generator for PDFMake.
